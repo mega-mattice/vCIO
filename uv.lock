@@ -1727,11 +1727,11 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
-    { name = "jupyter", specifier = ">=1.1.1" },
-    { name = "matplotlib", specifier = ">=3.10.8" },
-    { name = "pandas", specifier = ">=3.0.1" },
-    { name = "scipy", specifier = ">=1.17.1" },
-    { name = "seaborn", specifier = ">=0.13.2" },
+    { name = "jupyter", specifier = "==1.1.1" },
+    { name = "matplotlib", specifier = "==3.10.8" },
+    { name = "pandas", specifier = "==3.0.1" },
+    { name = "scipy", specifier = "==1.17.1" },
+    { name = "seaborn", specifier = "==0.13.2" },
 ]
 
 [[package]]
